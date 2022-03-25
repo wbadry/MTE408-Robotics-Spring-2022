@@ -36,7 +36,9 @@ This a repository with all of the lab presentations and exercises.
 # LABS
 
 **LAB1** : Review on Matrices and MATLAB implementation 
-**LAB2** : Frames and 2D homogeneous transformation
+--------------------------------------------------------
 
+**LAB2** : Frames and 2D homogeneous transformation
+--------------------------------------------------------
 
 
