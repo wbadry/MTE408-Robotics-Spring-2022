@@ -44,4 +44,7 @@ This a repository with all of the lab presentations and exercises.
 **LAB3** : 2D homogeneous transformation
 --------------------------------------------------------
 
+**LAB4** : 3D homogeneous transformation
+--------------------------------------------------------
+
 
