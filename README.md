@@ -47,4 +47,10 @@ This a repository with all of the lab presentations and exercises.
 **LAB4** : 3D homogeneous transformation
 --------------------------------------------------------
 
+**LAB5** : Debavit Hartenberg (DH) parameters
+--------------------------------------------------------
+
+**Quiz1** : 3D homogeneous transformation quiz
+--------------------------------------------------------
+
 
