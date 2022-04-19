@@ -59,4 +59,24 @@ This a repository with all of the lab presentations and exercises.
 **LAB7** : Inverese Kinematics for articulated arm
 --------------------------------------------------------
 
+<br/>
+
+# MATLAB EXERCISES
+
+![](images/MATLAB/1.png)
+
+<br/>
+
+![](images/MATLAB/2.png)
+
+<br/>
+
+![](images/MATLAB/3.png)
+
+<br/>
+
+![](images/MATLAB/4.gif)
+
+
+
 
