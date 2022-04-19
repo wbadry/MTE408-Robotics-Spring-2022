@@ -53,4 +53,10 @@ This a repository with all of the lab presentations and exercises.
 **Quiz1** : 3D homogeneous transformation quiz
 --------------------------------------------------------
 
+**LAB6** : Inverese Kinematics for cartesian robot
+--------------------------------------------------------
+
+**LAB7** : Inverese Kinematics for articulated arm
+--------------------------------------------------------
+
 
