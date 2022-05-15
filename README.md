@@ -59,6 +59,9 @@ This a repository with all of the lab presentations and exercises.
 **LAB7** : Inverese Kinematics for articulated arm
 --------------------------------------------------------
 
+**LAB8** : Jacobian Matrix for Cartesian arm
+--------------------------------------------------------
+
 <br/>
 
 # MATLAB EXERCISES
