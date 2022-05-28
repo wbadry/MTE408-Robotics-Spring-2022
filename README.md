@@ -62,8 +62,13 @@ This a repository with all of the lab presentations and exercises.
 **LAB8** : Jacobian Matrix for Cartesian arm
 --------------------------------------------------------
 
-<br/>
+**LAB9** : Jacobian Matrix for Articulated arm
+--------------------------------------------------------
 
+**LAB10** : Trajectory Generation
+--------------------------------------------------------
+
+<br/>
 # MATLAB EXERCISES
 
 ![](images/MATLAB/1.png)
