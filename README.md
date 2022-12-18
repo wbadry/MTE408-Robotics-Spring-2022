@@ -98,4 +98,8 @@ This a repository with all of the lab presentations and exercises.
 
 ![](images/Visual Sizer/sizer.png)
 
+<br/>
+
+![](images/sw/motor dynamics.gif)
+
 
