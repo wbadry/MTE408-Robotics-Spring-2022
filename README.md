@@ -76,7 +76,9 @@ This a repository with all of the lab presentations and exercises.
 
 
 <br/>
+
 # MATLAB EXERCISES
+
 
 ![](images/MATLAB/1.png)
 
@@ -92,14 +94,14 @@ This a repository with all of the lab presentations and exercises.
 
 ![](images/MATLAB/4.gif)
 
-
 <br/>
+
 # VISUAL SIZER
 
-![](images/Visual Sizer/sizer.png)
+![](images/sizer/sizer.png)
 
 <br/>
 
-![](images/sw/motor dynamics.gif)
+![](images/sw/dynamics.gif)
 
-
+<br/>
