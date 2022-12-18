@@ -102,6 +102,10 @@ This a repository with all of the lab presentations and exercises.
 
 <br/>
 
-![](images/sw/dynamics.gif)
+# SOLIDWORKS
+
+<br/>
+
+![](images/sw/sw.gif)
 
 <br/>
